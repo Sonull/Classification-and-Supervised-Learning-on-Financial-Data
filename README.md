@@ -147,18 +147,23 @@ changenet_same
 
 ![randomforest](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/randomforest.png)
 
-![rf1](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/rf1.png)
+![rff1](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/rff1.png)
 
-![rf2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/rf2.png)
+![rff2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/rff2.png)
 
-* The accuracy of the model  = (242+642)/total * 100 
-		             = 98.11%
 * According to the Mean Decrease in Gini Value the top five most significant variables in predicting whether the S&P 500 index would have a gain two days in a row are:
   * ChangePercent.1
   * changenet_same
   * changepct_same
   * open_to_low_net
   * open_to_low_pct
+  
+![rff3](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/rff3.png)
+
+* The accuracy of the model  = (242+642)/total * 100 
+		             = 98.11%
+			     
+
 
 
 
