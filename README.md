@@ -105,6 +105,24 @@
 
 ![dtree-iteration2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/dtree-iteration2.png)
 
+* The first node tells the split between Yes and No in the original data which is 28% and 72% respectively 
+* The variables that were identified as significant initially were:
+  * changenet_same 				
+  * changepct_same  
+  * ChangePercent.1 
+  * open_to_high_net 
+  * open_to_high_pct  
+  * open_to_low_net  
+  * open_to_low_pct     
+  * RangeNet    
+  * RangePercent  
+  * RangePercent.1  
+* The variables that were finally in the model because of their significance are:
+  * ChangePercent.1 
+  * if the percentage change in the Open and Close Price for the previous day is less than -0.005, then there is 46% probability that the S&P 500 Index would NOT have a gain for two days in a row 
+changenet_same
+  * if the percentage change in the Open and Close Price for the previous day is NOT less than -0.005  AND if the net change between Open and Close Price for the same day is < 0.13 then there is a 28% probability that the S&P 500 Index would have a gain for two days in a row 
+
 ![dtree1](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dtree1.png)
 
 ![dtree2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dtree2.png)
@@ -112,6 +130,8 @@
 ![dtree3](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dtree3.png)
 
 ![dtree4](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dtree4.png)
+
+
 
 ![dtree5](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dtree5.png)
 
