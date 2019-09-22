@@ -83,7 +83,7 @@
 
 # Chart 7
 
-![chart7](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart7.png)
+![chart7](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart7.png)
 
 ![graph8](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph8.png)
 
