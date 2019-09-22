@@ -105,6 +105,15 @@
 
 ![dtree-iteration2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/dtree-iteration2.png)
 
+![dtree1](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dtree1.png)
+
+![dtree2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dtree2.png)
+
+![dtree3](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dtree3.png)
+
+![dtree4](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dtree4.png)
+
+![dtree5](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dtree5.png)
 
 # Random Forest
 
