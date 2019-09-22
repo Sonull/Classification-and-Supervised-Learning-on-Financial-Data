@@ -19,7 +19,8 @@
 # Visualization of the data
 
 # Chart 1
-![chart1](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart1.png)
+
+![chart1](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart1.png)
 
 ![graph1](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph1.png)
 
@@ -28,7 +29,7 @@
 
 # Chart 2
 
-![chart2](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart2.png)
+![chart2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart2.png)
 
 ![graph2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph2.png)
 
@@ -38,7 +39,7 @@
 
 # Chart 3
 
-![chart3](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart3.png)
+![chart3](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart3.png)
 
 ![graph3](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph3.png)
 
@@ -48,7 +49,7 @@
 
 # Chart 4
 
-![chart4](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart4.png)
+![chart4](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart4.png)
 
 ![graph4](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph4.png)
 
@@ -59,7 +60,7 @@
 
 # Chart 5
 
-![chart5](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart5.png)
+![chart5](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart5.png)
 
 ![graph5](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph5.png)
 
@@ -68,9 +69,11 @@
 
 # Chart 6
 
-![chart6](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart6.png)
+![chart6](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart6.png)
 
 ![graph6](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph6.png)
+
+![eight](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/eight.png)
 
 ![graph7](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph7.png)
 
@@ -83,6 +86,8 @@
 ![chart7](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart7.png)
 
 ![graph8](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph8.png)
+
+![nine](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/nine.png)
 
 ![graph9](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph9.png)
 
