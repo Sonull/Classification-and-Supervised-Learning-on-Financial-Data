@@ -97,5 +97,8 @@
 
 # Decision Tree
 
+![dtree-iteration2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/dtree-iteration2.png)
+
+
 # Random Forest
 
