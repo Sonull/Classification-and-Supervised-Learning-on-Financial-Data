@@ -22,21 +22,40 @@
 
 ![graph1](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph1.png)
 
+* The difference between the High and Low Price of the Stock is lowest on Wednesday
+* The difference between High and Low price is more than 100$ usually on a Monday and Thursday
+
 # Chart 2
 
 ![graph2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph2.png)
+
+* The difference between Close Price and Open Price is more spread out during the first month and the last month
+* The trading activities seem to be affected by seasonality
+* The fluctuations are the lowest in Quarter 3. Here Quarter 3 is the period from month 7 through 9
 
 # Chart 3
 
 ![graph3](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph3.png)
 
+* The Percentage difference between the High Price and the Open Price is the highest during the months 1 and 12
+* Usually, the percentage difference between the High Price and Open price is less than 5%, for any month
+* For the month 1, the high price of a day went up as high as 10% from the open price
+
 # Chart 4
 
 ![graph4](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph4.png)
 
+* The distribution of the difference between the High Price and Low Price is majorly concentrated around 15$ for years 1 and 2
+* This difference is seen to be getting more spread out across the years, that is the variability has been seen to increase down the years
+* For a majority of the years, the difference seems to be concentrated around 25$. This means usually, the value of the high price is not more than 25$ than low price throughout the year
+* This chart basically tells us that the stock market is very volatile and each year the difference between High Price and Low Price fluctuates a lot
+
 # Chart 5
 
 ![graph5](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph5.png)
+
+* The Percentage difference between Open Price and Low price has been the lowest for month 12, with the low price being even less than 7.5% than the Open Price
+* Usually the Percentage of difference between the Open Price and Low Price is within 5% 
 
 # Chart 6
 
@@ -44,11 +63,19 @@
 
 ![graph7](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph7.png)
 
+ * There exists a positive linear relationship between the Low Price of the stock and the Close Price of the stock
+ * As the Low Price increases the Close Price is expected to increase
+ * This is evidenced by the overall data as well as the data for each year  
+
 # Chart 7
 
 ![graph8](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph8.png)
 
 ![graph9](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph9.png)
+
+ * There exists a positive linear relationship between the High Price and the Close Price
+ * As the High Price increases the Close Price is expected to increase
+ * This is evidenced by the overall data as well as the data for each year  
 
 # Decision Tree
 
