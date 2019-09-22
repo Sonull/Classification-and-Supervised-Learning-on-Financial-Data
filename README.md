@@ -131,9 +131,17 @@ changenet_same
 
 ![dtree4](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dtree4.png)
 
-
-
 ![dtree5](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dtree5.png)
+
+* True positives = 240
+* True negatives = 640
+* False positives = 11
+* False negatives = 10
+* Therefore, accuracy of the model = (True positives + True Negatives)/ Total
+		                                 = (240+640)/901
+		                                 = 0.97669
+		                                 ~ 98%
+
 
 # Random Forest
 
