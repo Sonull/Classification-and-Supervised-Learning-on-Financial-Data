@@ -97,6 +97,12 @@
 
 # Decision Tree
 
+![dp1](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dp1.png)
+
+![dp2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dp2.png)
+
+![dp4](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/dp3.png)
+
 ![dtree-iteration2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/dtree-iteration2.png)
 
 
