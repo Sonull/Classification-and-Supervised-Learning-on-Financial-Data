@@ -19,6 +19,7 @@
 # Visualization of the data
 
 # Chart 1
+![chart1](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart1.png)
 
 ![graph1](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph1.png)
 
@@ -26,6 +27,8 @@
 * The difference between High and Low price is more than 100$ usually on a Monday and Thursday
 
 # Chart 2
+
+![chart2](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart2.png)
 
 ![graph2](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph2.png)
 
@@ -35,6 +38,8 @@
 
 # Chart 3
 
+![chart3](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart3.png)
+
 ![graph3](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph3.png)
 
 * The Percentage difference between the High Price and the Open Price is the highest during the months 1 and 12
@@ -42,6 +47,8 @@
 * For the month 1, the high price of a day went up as high as 10% from the open price
 
 # Chart 4
+
+![chart4](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart4.png)
 
 ![graph4](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph4.png)
 
@@ -51,6 +58,8 @@
 * This chart basically tells us that the stock market is very volatile and each year the difference between High Price and Low Price fluctuates a lot
 
 # Chart 5
+
+![chart5](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart5.png)
 
 ![graph5](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph5.png)
 
