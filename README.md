@@ -68,6 +68,8 @@
 
 # Chart 6
 
+![chart6](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart6.png)
+
 ![graph6](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph6.png)
 
 ![graph7](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph7.png)
@@ -77,6 +79,8 @@
  * This is evidenced by the overall data as well as the data for each year  
 
 # Chart 7
+
+![chart7](hhttps://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Codes/chart7.png)
 
 ![graph8](https://github.com/Sonull/Classification-and-Supervised-Learning-on-Financial-Data/blob/master/Visualization/graph8.png)
 
